@@ -6,19 +6,11 @@ Just a simple Github-flavored Markdown app created with [Create React App](https
 
 ```
 git clone https://github.com/michaelignacio/markdown-previewer.git
+cd markdown-previewer
 npm install
 npm start
 ```
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-npm
-create-react-app
-```
-
-## Authors
+## Author
 
 * **Michael Ignacio** 
